@@ -3,7 +3,7 @@
 Android-App mit **MIT App Inventor**, die über **Bluetooth Classic (SPP)** eine LED an einem **ESP32** ein- und ausschaltet und ihre Helligkeit per Slider einstellt. Die App zeigt den **tatsächlichen Zustand** des ESP32-Ausgangs als Lampen-Symbol an und gibt zusätzlich einen Temperaturwert aus.
 
 <p align="center">
-  <img src="docs/screenshot_app.png" alt="Screenshot der App LedSteuerung" width="300">
+  <img src="screenshot_app.png" alt="Screenshot der App LedSteuerung" width="300">
 </p>
 
 ---
